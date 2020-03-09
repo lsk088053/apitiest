@@ -1,11 +1,11 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "$id": "1",
+  "currentDateTime": "2020-03-06T09:48Z",
+  "utcOffset": "00:00:00",
+  "isDayLightSavingsTime": false,
+  "dayOfTheWeek": "Friday",
+  "timeZoneName": "UTC",
+  "currentFileTime": 132279616945056540,
+  "ordinalDate": "2020-66",
+  "serviceResponse": null
 }
